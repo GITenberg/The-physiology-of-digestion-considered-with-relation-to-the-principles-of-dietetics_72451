@@ -1,0 +1,34 @@
+_repo: The-physiology-of-digestion-considered-with-relation-to-the-principles-of-dietetics_72451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Combe, Andrew
+    birthdate: 1797
+    deathdate: 1847
+    gutenberg_agent_id: '56685'
+    url: http://www.gutenberg.org/2009/agents/56685
+    wikipedia: https://en.wikipedia.org/wiki/Andrew_Combe
+description: ''
+edition_note: 2nd edition, revised and enlarged.
+gutenberg_issued: '2023-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72451'
+language: en
+pgterms:marc905: 20061105121911combe
+pgterms:marc906: '1836'
+pgterms:marc907: GB
+production_note: Bryan Ness, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bMaclachlan and Stewart, $c1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diet'
+- !lcsh 'Digestion'
+- !lcc 'QP'
+- GITenberg
+title: The physiology of digestion considered with relation to the principles of dietetics
+url: http://www.gutenberg.org/ebooks/72451
